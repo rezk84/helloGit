@@ -3,7 +3,10 @@ Hello Git 2
 This is a new feature
 
 
+
 A. This is a new title.
 A. This is my feature.
 
 A. This is the end
+
+This is another new feature.
