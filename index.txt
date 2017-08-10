@@ -10,3 +10,7 @@ A. This is my feature.
 A. This is the end
 
 This is another new feature.
+
+This is another test for github.
+
+This is another feature.
